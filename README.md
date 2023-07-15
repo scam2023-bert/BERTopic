@@ -2,7 +2,7 @@
 
 The online appendix for the SCAM 2023 submission "Enhancing API Documentation through BERTopic Modeling and Summarization".
 
-The Topics folder contains the final results of the top 80 categories and the interactive intertopic distance map.
+The Topics folder contains the final results of the top 80 categories and the interactive intertopic distance map. You can download the HTML file and open it in your browser.
 
 Also, our generated Stack Overflow dataset is available online. Due to the file limitation rules of GitHub, we uploaded them to Google Drive. You can access the datasets of Stack Overflow Android questions and answers from 2009 to 2022 here:
 
